@@ -151,7 +151,7 @@ const Home: NextPage = () => {
     <div className="flex max-w-5xl mx-auto flex-col items-center justify-center py-2 wu-screen">
       <Head>
         <title>Siege GPT</title>
-        <link rel="icon" href="/siegeLogo.ico" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Header />

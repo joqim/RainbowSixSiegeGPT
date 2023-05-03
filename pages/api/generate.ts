@@ -13,6 +13,8 @@ const handler = async (req: Request): Promise<Response> => {
     prompt?: string;
   };
 
+  console.log("prompt sent", prompt)
+
   if (!prompt) {
     return new Response("No prompt in the request", { status: 400 });
   }
@@ -24,7 +26,7 @@ const handler = async (req: Request): Promise<Response> => {
     top_p: 1,
     frequency_penalty: 0,
     presence_penalty: 0,
-    max_tokens: 200,
+    max_tokens: 300,
     stream: true,
     n: 1,
   };

@@ -1,6 +1,6 @@
 # [SiegeGPT](https://siege-gpt.vercel.app)
 
-This project generates dynamic gameplay suggestions for the popular esport title Rainbow six siege. <br/>
+This project generates dynamic gameplay suggestions for the popular esport title [Tom Clancy's Rainbow six siege.](https://www.ubisoft.com/en-us/game/rainbow-six/siege) <br/>
 Heavily inspired from Nutlope's [Twitter-bio-generator.](https://github.com/Nutlope/twitterbio)
 
 [![SiegeGPT](./public/siegeGPTscreenshot.png)](https://siege-gpt.vercel.app)

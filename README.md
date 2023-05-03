@@ -23,4 +23,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](siege-oyky2ckx4-joqim.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://siege-gpt.vercel.app)

@@ -194,6 +194,7 @@ const Home: NextPage = () => {
             <SiteDropdown map={map} site={site} setSite={(newSite) => {
               scrollToBios();
               setSite(newSite);
+              setSide("Attacker");
             }} />
           </div>
 

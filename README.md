@@ -1,8 +1,9 @@
-# [TwitterBio.com](https://www.twitterbio.com/)
+# [SiegeGPT](https://siege-gpt.vercel.app)
 
-This project generates Twitter bios for you using AI.
+This project generates dynamic gameplay suggestions for the popular esport title Rainbow six siege.
+Inspired from Nutlope's [Twitter-bio-generator](https://github.com/Nutlope/twitterbio)
 
-[![Twitter Bio Generator](./public/siegeGPTscreenshot.png)](https://www.twitterbio.com)
+[![SiegeGPT](./public/siegeGPTscreenshot.png)](https://siege-gpt.vercel.app)
 
 ## How it works
 
@@ -22,4 +23,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/twitterbio&env=OPENAI_API_KEY&project-name=twitter-bio-generator&repo-name=twitterbio)
+[![Deploy with Vercel](https://vercel.com/button)](siege-oyky2ckx4-joqim.vercel.app)

@@ -228,7 +228,7 @@ const Home: NextPage = () => {
               </h2>
               <div style={{ marginTop: "25px"}}>
                 <button
-                  className={`cursor-pointer py-2 px-7 bg-white rounded-l-lg font-medium focus:outline-none ${
+                  className={`cursor-pointer py-2 px-7 rounded-l-lg font-medium focus:outline-none ${
                     side === "Attacker" ? "bg-black text-white bg-black/100" : "text-gray-700 hover:bg-gray-200"
                   }`}
                   onClick={(e) => handleAttackerClick(e)}
@@ -237,7 +237,7 @@ const Home: NextPage = () => {
                   Attacker
                 </button>
                 <button
-                  className={`cursor-pointer py-2 px-7 bg-white rounded-r-lg font-medium focus:outline-none ${
+                  className={`cursor-pointer py-2 px-7 rounded-r-lg font-medium focus:outline-none ${
                     side === "Defender" ? "bg-black text-white bg-black/100" : "text-gray-700 hover:bg-gray-200"
                   }`}
                   onClick={(e) => handleDefenderClick(e)}
